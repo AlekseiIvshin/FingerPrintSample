@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">FingerPrintSample</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="test_fingerprint_verification">Test fingerprint</string>
+    <string name="lock_screen_security_not_enabled">Lock screen security not enabled in Settings</string>
+    <string name="fingerprint_authentication_not_enabled">Fingerprint authentication permission not enabled</string>
+    <string name="fingerprint_does_not_exist">Register at least one fingerprint in Settings</string>
 </resources>
